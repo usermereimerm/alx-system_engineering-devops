@@ -1,0 +1,60 @@
+[33mcommit 59d8b1a77b6484e63867266743155acfc4e92c0e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: usermereimerm <uauwal941@gmail.com>
+Date:   Wed Aug 31 09:51:28 2022 -0700
+
+    script to create my_first_directory
+
+[33mcommit 32b35b6b9d2f7682739daaf2113122308013a1ab[m
+Author: usermereimerm <uauwal941@gmail.com>
+Date:   Wed Aug 31 09:48:41 2022 -0700
+
+    script to list long numerically
+
+[33mcommit 0262111a4d13aafbe319e77c8ab189c14f0bfc90[m
+Merge: 5ab3272 c2db60d
+Author: usermereimerm <uauwal941@gmail.com>
+Date:   Wed Aug 31 09:28:33 2022 -0700
+
+    resolved a merge conflict for 4-listmorefiles
+
+[33mcommit 5ab32726d92c15efa794cb340c675eb9cf84c0a3[m
+Author: usermereimerm <uauwal941@gmail.com>
+Date:   Wed Aug 31 09:25:48 2022 -0700
+
+    script to list long including hidden files
+
+[33mcommit c2db60dee6c1482101a7106578c7d1d4b4aee7f0[m
+Author: usermereimerm <uauwal941@gmail.com>
+Date:   Wed Aug 31 09:11:39 2022 -0700
+
+    script to display contents including hidden ones
+
+[33mcommit c28f9ca94bfa5054d2714b7481278d78c1cf4e6c[m
+Author: usermereimerm <uauwal941@gmail.com>
+Date:   Wed Aug 31 09:09:00 2022 -0700
+
+    script to list contents in long format
+
+[33mcommit a957052946329f214fed2d9030933bc50af2afab[m
+Author: usermereimerm <uauwal941@gmail.com>
+Date:   Wed Aug 31 09:01:35 2022 -0700
+
+    Script to return to users home
+
+[33mcommit 9cbbcaa099fe3074d7274cc1d1e843487bb555ee[m
+Author: usermereimerm <uauwal941@gmail.com>
+Date:   Wed Aug 31 08:57:43 2022 -0700
+
+    content listing command added
+
+[33mcommit 226fb2db1d38c2be4d9bbb2bdbd028c2f9d502f3[m
+Author: usermereimerm <uauwal941@gmail.com>
+Date:   Wed Aug 31 08:46:59 2022 -0700
+
+    created the 0x00-shell_basics directory with a Readme file
+
+[33mcommit dca4dd82cbbe762ba4843df7a1774be2f37a9768[m
+Author: usermereimerm <67845662+usermereimerm@users.noreply.github.com>
+Date:   Wed Aug 31 09:39:23 2022 +0100
+
+    Initial commit
